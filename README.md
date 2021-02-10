@@ -3,4 +3,4 @@ A Random Password Generator using Javascript with copy to clipboard option
 
 # Output 
 
-![](password_generator_view.png)
+![](password_generator-view.png)
